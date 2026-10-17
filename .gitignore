@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+playwright-report/
+test-results/
+giftrelay-20261017
+*.pyc
+*.tsbuildinfo
+.DS_Store
+.env*
+!.env.example

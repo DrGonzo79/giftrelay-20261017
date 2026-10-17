@@ -1,0 +1,6 @@
+[
+  {"id":"O-101","shop":"Juniper & Clay","item":"Hand-thrown espresso pair","price":96,"etaMinutes":82,"rating":4.9,"tags":["coffee","design","handmade"],"note":"Gift wrapped with a handwritten card.","image":"JC"},
+  {"id":"O-102","shop":"Paper + Pine","item":"Botanical desk ritual set","price":78,"etaMinutes":105,"rating":4.8,"tags":["plants","office","design"],"note":"Includes ceramic planter, journal and local tea.","image":"PP"},
+  {"id":"O-103","shop":"Marigold Market","item":"Austin makers tasting box","price":124,"etaMinutes":54,"rating":4.7,"tags":["food","local","celebration"],"note":"Six local favorites; allergy-safe swap available.","image":"MM"},
+  {"id":"O-104","shop":"Lumen House","item":"Sculptural candle duo","price":68,"etaMinutes":42,"rating":4.9,"tags":["design","home","relaxation"],"note":"Unscented, gift boxed, ready for courier pickup.","image":"LH"}
+]
